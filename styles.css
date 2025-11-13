@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personalidades e Lideranças Negras</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Personalidades e Lideranças Negras</h1>
+        <p>Celebrando histórias, lutas e conquistas que marcaram o Brasil e o mundo.</p>
+    </header>
+
+    <main>
+        <section class="personagem">
+            <h2>Zumbi dos Palmares</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Zumbi_dos_Palmares.jpg" alt="Zumbi dos Palmares">
+            <p>Zumbi dos Palmares (1655–1695) foi o líder do Quilombo dos Palmares, símbolo da resistência negra contra a escravidão no Brasil. Lutou pela liberdade de seu povo e pela preservação da cultura africana. É lembrado como herói nacional e referência na luta antirracista.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Lélia Gonzalez</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Lelia_Gonzalez.jpg" alt="Lélia Gonzalez">
+            <p>Lélia Gonzalez (1935–1994) foi uma intelectual, antropóloga e ativista brasileira. Defendeu a valorização da mulher negra e discutiu o racismo estrutural no Brasil. Suas ideias sobre identidade afro-brasileira e feminismo negro influenciam gerações até hoje.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Abdias do Nascimento</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Abdias_do_Nascimento.jpg" alt="Abdias do Nascimento">
+            <p>Abdias do Nascimento (1914–2011) foi poeta, artista plástico, político e um dos maiores militantes do movimento negro no Brasil. Fundou o <strong>Teatro Experimental do Negro (TEN)</strong>, importante marco na valorização da arte e da identidade negra.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/MdlB3XlYCjk" title="Vídeo sobre o TEN" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section class="personagem">
+            <h2>Margareth Menezes</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Margareth_Menezes_2016.jpg" alt="Margareth Menezes">
+            <p>Margareth Menezes é cantora, compositora e atual Ministra da Cultura do Brasil. Sua música mistura ritmos afro-brasileiros e celebra a ancestralidade. Como ministra, defende a valorização da cultura e da arte negra.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/F_RqbLzSnIM" title="Margareth Menezes - Faraó" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section class="personagem">
+            <h2>Conceição Evaristo</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Conceicao_Evaristo_2018.jpg" alt="Conceição Evaristo">
+            <p>Conceição Evaristo é escritora e professora mineira, reconhecida por sua literatura que retrata a vivência das mulheres negras. É autora de obras como <em>Ponciá Vicêncio</em> e <em>Olhos d’Água</em>, trazendo a voz e resistência do povo negro.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Sueli Carneiro</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Sueli_Carneiro_em_2018.jpg" alt="Sueli Carneiro">
+            <p>Sueli Carneiro é filósofa, escritora e ativista. Fundadora do <strong>Geledés – Instituto da Mulher Negra</strong>, atua na defesa dos direitos humanos e da igualdade racial e de gênero. É uma das maiores vozes do feminismo negro no Brasil.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Vilma Reis</h2>
+            <img src="https://www.ufba.br/sites/portal.ufba.br/files/vilma_reis.jpg" alt="Vilma Reis">
+            <p>Vilma Reis é socióloga e ativista baiana. Luta pela representatividade negra na política, direitos humanos e combate à violência racial. É símbolo de resistência e empoderamento das mulheres negras.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Mãe Stella de Oxóssi</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Mae_Stella_de_Oxossi.jpg" alt="Mãe Stella de Oxóssi">
+            <p>Mãe Stella de Oxóssi (1925–2018) foi uma das mais importantes ialorixás do Brasil e líder do Ilê Axé Opô Afonjá, em Salvador. Defensora do Candomblé como expressão cultural e religiosa, lutou contra o preconceito e pela valorização da fé afro-brasileira.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/aSNn4s9RhAM" title="Candomblé e Identidade Cultural Brasileira" frameborder="0" allowfullscreen></iframe>
+        </section>
+
+        <section class="personagem">
+            <h2>Joana D’Arc Félix</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Joana_D%E2%80%99Arc_F%C3%A9lix_de_Sousa.jpg" alt="Joana D’Arc Félix">
+            <p>Joana D’Arc Félix é uma das maiores cientistas brasileiras, reconhecida internacionalmente por suas pesquisas em reaproveitamento de resíduos do couro. Recebeu mais de 30 prêmios nacionais e internacionais por suas contribuições à ciência.</p>
+        </section>
+
+        <section class="personagem">
+            <h2>Elza Soares</h2>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Elza_Soares_2011.jpg" alt="Elza Soares">
+            <p>Elza Soares (1930–2022) foi uma das maiores vozes da música brasileira. Suas canções denunciaram o racismo, a pobreza e a violência contra a mulher. Tornou-se ícone de resistência e orgulho negro. Ouça sua música <a href="https://www.youtube.com/watch?v=yktrUMoc1Xw" target="_blank">“A Carne”</a>.</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Desenvolvido por Juliana — Projeto: Personalidades e Lideranças Negras © 2025</p>
+    </footer>
+</body>
+</html>
